@@ -13,12 +13,12 @@
 * scikit-learn == 0.21.3  
 
 # Instructions
-Run test1.py to get the results of the case study
-
+Run test1.py to get the results of the case study, which are provided by the trained model.
 ````
 test1.py
 ````
 |smiles |        D     |   P    |    H   |
+ |    :----:   |     :----:   |    :----:   |     :----:   |
 |S1C=CC=C1C1C2N=CC(OCC(CCCCCC)CCCCCCCC)=NC2C=C(F)C=1F| 19.191254| 1.841487| 3.773237|
 |S1C=CC=C1C1C2N=CC(OCCOCCOCCOCCOCCOCCOC)=NC2C=C(F)C=1F |18.555079 |4.038325 |5.875641|
 |S1C=CC=C1C1C2N=CC(OC(COCCOCCOCCOC)COCCOCCOCCOC)=NC2C=C(F)C=1F |19.391996| 9.274973| 7.126017|
