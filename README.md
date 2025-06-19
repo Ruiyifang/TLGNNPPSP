@@ -1,4 +1,4 @@
-# TLGNNPPSP
+# Transfer learning with graph neural networks to predict polymer solubility parameters
 
 <p align="center"> 
 <img src="FIG1_hz_1222_1.jpg">
